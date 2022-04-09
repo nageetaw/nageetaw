@@ -35,3 +35,20 @@ Here are some ideas to get you started:
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  
+  <div align="center">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" height="300"/>
+</div>
+  
+  ### :woman_technologist: About Me :
+  <div align="left">
+    
+- :telescope:I'm a final year student of Computer Science. Have expertise in mobile app development and fascinated in creating apps with clean code and excellent UI.
+
+- :seedling: Exploring React Native and Crypto market
+
+- :zap:The technical skills I have learned to implement includes flutter, android, react native, RESTful API, Unit Testing, UI/UX Design, Git Version Control, MVC, MongoDB, and Firebase.
+
+  </div>
+  
+  

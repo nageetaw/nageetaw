@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </h1>
   
   <div align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" height="150"/>
 </div>
   
   ### :woman_technologist: About Me :

@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   ### :woman_technologist: About Me :
   <div align="left">
     
-- :telescope:I'm a final year student of Computer Science. Have expertise in mobile app development and fascinated in creating apps with clean code and excellent UI.
+- :telescope:I'm a fresh Graduate of Computer Science. Have expertise in mobile app development and fascinated in creating apps with clean code and excellent UI.
 
 - :seedling: Exploring React Native and Crypto market
 

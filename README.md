@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 <!-- ----------  Experience highlights ---------- -->
 <h2>💼 Selected&nbsp;Experience</h2>
 <ul>
-  <li><strong>Data Science Intern, Datadog Paris</strong> (Apr 2025 – Sep 2025) — built a Bayesian causal-AI model for root-cause analysis, hitting 95%+ recall and 88% precision.</li>
-  <li><strong>Research Intern, INRAE</strong> (May 2024 – Jul 2024) — knowledge-graph enrichment &amp; supervised ML on food-consumption datasets.</li>
-  <li><strong>Full-Stack Developer, Sound M &amp; DLLC</strong> (Aug 2022 – Aug 2023) — shipped an end-to-end encrypted chat module with React, Node &amp; FastAPI.</li>
+  <li><strong>Data Science Intern, Datadog Paris</strong> (Apr 2025 – Sep 2025)</li>
+  <li><strong>Research Intern, INRAE</strong> (May 2024 – Jul 2024)</li>
+  <li><strong>Full-Stack Developer, Sound M &amp; DLLC</strong> (Aug 2022 – Aug 2023).</li>
 </ul>
 
 <!-- ----------  Quick stats ---------- -->

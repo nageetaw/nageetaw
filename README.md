@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   ### :woman_technologist: About Me :
   <div align="left">
     
-- :telescope: Hello, I am Master 2 student in <a href="(https://www.master-mva.com/)"> MVA (Mathématiques, Vision, Apprentissage)</a> at ENS paris saclay 2024 - 2025.
-- I am currently doing my end of studies intership at <a href="https://docs.datadoghq.com/">Datadog Paris France, and Looking for a full time position as a Data Scientist or AI engineer. </a>
+- :telescope: Hello, I am Master 2 student in <a href="https://www.master-mva.com/"> MVA (Mathématiques, Vision, Apprentissage)</a> at ENS paris saclay 2024 - 2025.
+- I am currently doing my end of studies intership at <a href="https://docs.datadoghq.com/">Datadog Paris France</a>, and Looking for a full time position as a Data Scientist or AI engineer. </a>
 
 - :seedling: Mostly interseted in NLP and Machine learning role
 

@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <p>
   <a href="mailto:nageetaw@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/nageeta124">LinkedIn</a> •
-  <a href="https://nageetw.github.io">Portfolio&nbsp;site</a>
+  <a href="https://nageetaw.github.io">Portfolio&nbsp;site</a>
 </p>
 
 <!-- ----------  Fun ---------- -->

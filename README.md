@@ -15,7 +15,22 @@
   <p>💡 Research interests: <strong>NLP, Large-Language-Models, Generative AI, Machine Learning</strong>.</p>
   
 
-  <!-- ----------  Tech stack ---------- -->
+  <!-- ----------  Experience ---------- -->
+  <h2>💼 &nbsp;Experience</h2>
+  <p><strong>Data Science Intern, Datadog Paris</strong> (Apr 2025 – Sep 2025)</p>
+  <p><strong>Research Intern, INRAE</strong> (May 2024 – Jul 2024)</p>
+  <p><strong>Full-Stack Developer, Sound M &amp; DLLC</strong> (Aug 2022 – Aug 2023)</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api
+          ?username=<YOUR-USERNAME>
+          &include_all_commits=true   # count from day-1, not just this year
+          &count_private=true         # add private commits
+          &show_icons=true"
+    alt="Overall GitHub stats"/>
+</p>
+<!-- ----------  Tech stack ---------- -->
   <h2>🛠️ Tech&nbsp;Stack</h2>
   <table align="center">
     <tr>
@@ -40,11 +55,4 @@
       <td align="center"><strong style="font-size:1.6em;">SQL</strong><br>(generic)</td>
     </tr>
   </table>
-
-  <!-- ----------  Experience ---------- -->
-  <h2>💼 &nbsp;Experience</h2>
-  <p><strong>Data Science Intern, Datadog Paris</strong> (Apr 2025 – Sep 2025)</p>
-  <p><strong>Research Intern, INRAE</strong> (May 2024 – Jul 2024)</p>
-  <p><strong>Full-Stack Developer, Sound M &amp; DLLC</strong> (Aug 2022 – Aug 2023)</p>
-
   <!-- ----------  Con

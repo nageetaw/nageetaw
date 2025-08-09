@@ -18,13 +18,6 @@ Here are some ideas to get you started:
   Data Scientist&nbsp;•&nbsp;AI&nbsp;&amp;&nbsp;NLP Enthusiast&nbsp;•&nbsp;Paris, France
 </p>
 
-<!-- ----------  Skills banner (see section 1) ---------- -->
-<p align="center">
-  <img src="assets/skills-banner.png"
-       alt="Languages, Frameworks, Libs and Tools"
-       width="800">
-</p>
-
 <!-- ----------  About ---------- -->
 <h2>🚀 About&nbsp;Me</h2>
 <ul>

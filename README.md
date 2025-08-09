@@ -24,7 +24,7 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api
-          ?username=<YOUR-USERNAME>
+          ?username=nageetaw
           &include_all_commits=true   # count from day-1, not just this year
           &count_private=true         # add private commits
           &show_icons=true"

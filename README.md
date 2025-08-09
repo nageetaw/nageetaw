@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>
 <h1 align="center">Nageeta Kumari</h1>
 <p align="center">
   Data Scientist&nbsp;•&nbsp;AI&nbsp;&amp;&nbsp;NLP Enthusiast&nbsp;•&nbsp;Paris, France
 </p>
 
 <!-- ----------  About ---------- -->
+
 <h2>🚀 About&nbsp;Me</h2>
 <ul>
   <li>🎓 <strong>M.Sc. MVA (Mathematics, Vision &amp; Learning)</strong>, <em>ENS Paris-Saclay</em> — 2024-2025 (in progress)</li>
@@ -86,3 +88,4 @@ Here are some ideas to get you started:
 
   
 </div>
+</center>

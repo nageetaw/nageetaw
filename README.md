@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <!-- ----------  Quick stats ---------- -->
 <h2>📊 GitHub&nbsp;Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nageeta124&show_icons=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=nageetaw&show_icons=true&hide_title=true">
 </p>
 
 <!-- ----------  Contact ---------- -->

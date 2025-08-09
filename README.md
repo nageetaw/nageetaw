@@ -21,15 +21,6 @@
   <p><strong>Research Intern, INRAE</strong> (May 2024 – Jul 2024)</p>
   <p><strong>Full-Stack Developer, Sound M &amp; DLLC</strong> (Aug 2022 – Aug 2023)</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api
-          ?username=nageetaw
-          &include_all_commits=true   # count from day-1, not just this year
-          &count_private=true         # add private commits
-          &show_icons=true"
-    alt="Overall GitHub stats"/>
-</p>
 <!-- ----------  Tech stack ---------- -->
   <h2>🛠️ Tech&nbsp;Stack</h2>
   <table align="center">

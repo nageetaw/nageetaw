@@ -41,7 +41,7 @@
   </table>
 
   <!-- ----------  Experience ---------- -->
-  <h2>💼 Selected&nbsp;Experience</h2>
+  <h2>💼 &nbsp;Experience</h2>
   <p><strong>Data Science Intern, Datadog Paris</strong> (Apr 2025 – Sep 2025)</p>
   <p><strong>Research Intern, INRAE</strong> (May 2024 – Jul 2024)</p>
   <p><strong>Full-Stack Developer, Sound M &amp; DLLC</strong> (Aug 2022 – Aug 2023)</p>

@@ -31,9 +31,9 @@ Here are some ideas to get you started:
   <li>🎓 <strong>M.Sc. MVA (Mathematics, Vision &amp; Learning)</strong>, <em>ENS Paris-Saclay</em> — 2024-2025 (in progress)</li>
   <li>🎓 <strong>M.Sc. Data Science</strong>, <em>Université Paris-Saclay</em> — 2024, grade 15.5 / 20</li>
   <li>🎓 <strong>B.Sc. Computer Science</strong>, <em>Sukkur IBA University</em> — 2022, Silver Medalist (CGPA 3.68 / 4)</li>
-  <li>✍️ Co-author of <a href="https://hal.science/LISN/hal-04608255v1">RelevAI-Reviewer</a>, a benchmark on AI reviewers for survey-paper relevance.</li>
-  <li>💡 Research interests: <strong>NLP, Large-Language-Models, Causal ML, Knowledge Graphs</strong>.</li>
-  <li>🎯 <strong>Actively seeking NLP / AI Engineer roles</strong> where I can build production models with PyTorch, FastAPI and cloud-native tooling.</li>
+  <li>✍️ Co-author of <a href="https://hal.science/LISN/hal-04608255v1">RelevAI-Reviewer</a>, AI reviewers for survey-paper relevance.</li>
+  <li>💡 Research interests: <strong>NLP, Large-Language-Models, Genrative AI, Machine Learning </strong>.</li>
+  <li>🎯 <strong>Actively seeking NLP / AI Engineer roles</strong> </li>
 </ul>
 
 <!-- ----------  Tech stack ---------- -->

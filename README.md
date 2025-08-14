@@ -47,6 +47,32 @@
     </tr>
   </table>
 
+  <!-- ----------  Subjects ---------- -->
+<h2>📚 Subjects I’ve Taken</h2>
+
+<!-- ENS Paris-Saclay -->
+<p><strong>🎓 ENS Paris-Saclay — M.Sc. MVA (Mathematics, Vision & Learning)</strong></p>
+<ul align="left">
+  <li>Reinforcement Learning</li>
+  <li>Object Recognition for Computer Vision</li>
+  <li>Probabilistic Graphical Models</li>
+  <li>Geometric Data Analysis</li>
+  <li>Machine Intelligence of Images</li>
+  <li>Advanced Deep Learning</li>
+  <li>Representative Learning for Medical Imaging</li>
+  <li>Large Language Models</li>
+  <li>Natural Language & Speech Processing</li>
+  <li>Statistical Learning for Geosciences</li>
+</ul>
+
+<!-- Université Paris-Saclay -->
+<p><strong>🎓 Université Paris-Saclay — M.Sc. Data Science</strong></p>
+<ul align="left">
+  <li><strong>Data Science:</strong> Advanced Databases, Probability & Statistics, Mathematics for Data Science, Large Scale Distributed Systems, Large Scale Distributed Data Processing, Information Theory</li>
+  <li><strong>Artificial Intelligence:</strong> Hands-on Machine Learning (Scikit-Learn), Machine Learning Algorithms, Hands-on Natural Language Processing, Deep Learning, Information Retrieval</li>
+</ul>
+
+
  ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nageetaw&theme=radical&hide_border=true) <br/>

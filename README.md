@@ -46,4 +46,7 @@
       <td align="center"><strong style="font-size:1.6em;">SQL</strong><br>(generic)</td>
     </tr>
   </table>
+
+  ![Nageeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=nageetaw&show_icons=true&theme=radical)
+
   <!-- ----------  Con

@@ -53,7 +53,7 @@
 <h2>📚 Subjects I’ve Taken</h2>
 
 <!-- ENS Paris-Saclay -->
-<p><strong>🎓 ENS Paris-Saclay — M.Sc. MVA (Mathematics, Vision & Learning)</strong></p>
+<p><strong>🎓 ENS Paris-Saclay — M.Sc. MVA (Mathematics, Vision & Learning) 2024-2025</strong></p>
 <ul align="left">
   <li>Reinforcement Learning</li>
   <li>Object Recognition for Computer Vision</li>
@@ -68,7 +68,7 @@
 </ul>
 
 <!-- Université Paris-Saclay -->
-<p><strong>🎓 Université Paris-Saclay — M.Sc. Data Science</strong></p>
+<p><strong>🎓 Université Paris-Saclay — M.Sc. Data Science 2023-2024</strong></p>
 <ul align="left">
   <li><strong>Data Science:</strong> Advanced Databases, Probability & Statistics, Mathematics for Data Science, Large Scale Distributed Systems, Large Scale Distributed Data Processing, Information Theory</li>
   <li><strong>Artificial Intelligence:</strong> Hands-on Machine Learning (Scikit-Learn), Machine Learning Algorithms, Hands-on Natural Language Processing, Deep Learning, Information Retrieval</li>

@@ -49,7 +49,7 @@
 
  ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nageetaw&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nageetaw&theme=radical&hide_border=true) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nageetaw&layout=compact&theme=radical)
 
 

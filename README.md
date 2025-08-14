@@ -3,7 +3,7 @@
 
   <!-- ----------  Header ---------- -->
   <h1>Hi 👋 , I am Nageeta </h1>
-  <p>🎯 <strong>Actively seeking NLP / AI Engineer roles</strong></p>
+  <p>🎯 <strong>Actively seeking Applied Data Scientist and AI/ML Engineer roles</strong></p>
   <p>Data Scientist&nbsp;•&nbsp;AI&nbsp;&amp;&nbsp;NLP Enthusiast&nbsp;•&nbsp;Paris, France</p>
   
   <!-- ----------  About ---------- -->

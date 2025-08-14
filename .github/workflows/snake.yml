@@ -1,0 +1,27 @@
+name: Generate GitHub contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+  workflow_dispatch:       # lets you run it manually
+
+permissions:
+  contents: write          # required to push the generated files
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: nageetaw            # <-- change to YOUR username
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - name: Publish to 'output' branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output                 # files will be pushed here
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

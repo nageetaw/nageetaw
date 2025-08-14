@@ -52,6 +52,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=nageetaw&theme=radical&hide_border=true) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nageetaw&layout=compact&theme=radical)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nageetaw/nageetaw/output/snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nageetaw/nageetaw/output/snake.svg" />
+</picture>
 
   <!-- ----------  Con
